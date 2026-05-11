@@ -270,8 +270,8 @@ export const blogPosts = [
   {
     slug: 'common-legal-mistakes-startups-make-in-their-first-year',
     title: 'Common Legal Mistakes Startups Make In Their First Year',
-    date: 'May 7, 2026',
-    image: '/insights/COMMON LEGAL MISTAKES STARTUPS MAKE.jpeg',
+    date: 'April 10, 2026',
+    image: '/insights/Legal Mistakes Startups Make in their first year.PNG',
     content: `# **Common Legal Mistakes Startups Make in Their First Year**
 
 The first year of a startup is often marked by uncertainty, experimentation, and the pressure to achieve rapid growth with limited resources. Founders typically focus on product development, client acquisition, and fundraising. However, many neglect the legal foundations of their business until much later. This oversight often exposes startups to significant risks ranging from costly disputes and stalled growth to investor hesitation and, in severe cases, the collapse of the enterprise.
@@ -352,8 +352,8 @@ A strong legal strategy should evolve alongside the business model, not lag behi
   {
     slug: 'content-creation-meets-copyright-law-article',
     title: 'Content Creation Meets Copyright Law',
-    date: 'May 7, 2026',
-    image: '/insights/Content Creation Meets Copyright Law.jpeg',
+    date: 'April 28, 2026',
+    image: '/insights/Content Creation Meets Copyright Law.PNG',
     content: `**Content Creation Meets Copyright Law: Protecting Digital Works in a Social Media Economy.**
 
 **Abstract**
@@ -470,8 +470,8 @@ Online and Digital Sources
   {
     slug: 'nigeria-s-data-protection-framework-law-regulation-rights-and-compliance-obligations',
     title: 'Nigeria’s Data Protection Framework: Law, Regulation, Rights, And Compliance Obligations',
-    date: 'May 7, 2026',
-    image: '/insights/NIGERIAS DATA PROTECTION FRAMEWORK.jpeg',
+    date: 'April 2, 2026',
+    image: '/insights/Nigerias Data Protection Framework.PNG',
     content: `# **NIGERIA’S DATA PROTECTION FRAMEWORK: LAW, REGULATION, RIGHTS, AND COMPLIANCE OBLIGATIONS**
 
 As data increasingly drives economic activity, governance, and innovation, the protection of personal information has become a critical legal and commercial concern. In Nigeria, the exponential growth of digital platforms, financial technology, telecommunications, and e-commerce has necessitated a comprehensive legal framework to regulate the collection, use, storage, and transfer of personal data. Nigeria’s data protection regime has evolved from fragmented regulatory guidance into a consolidated statutory framework that aligns with global best practices while responding to local realities.
@@ -631,8 +631,8 @@ For businesses, compliance is no longer optional or peripheral. Effective data p
   {
     slug: 'peculiar-s-injucntion-article',
     title: 'Understanding Injunctions In Nigeria',
-    date: 'May 7, 2026',
-    image: "/insights/Peculiar's injucntion article.jpeg",
+    date: 'January 25, 2026',
+    image: '/insights/Understanding Injuctions in Nigeria.PNG',
     content: `**INJUNCTIONS**
 
 **INTERIM AND EX-PARTE, MAREVA, ANTON PILLER AND PERPETUAL INJUNCTIONS.**
@@ -796,8 +796,8 @@ This is merely an order commanding the defendant to accord the applicant permiss
   {
     slug: 'sound-rights-and-smart-deals-article',
     title: 'Sound Rights And Smart Deals ARTICLE',
-    date: 'May 7, 2026',
-    image: '/insights/sound rights and smart deals ARTICLE.jpeg',
+    date: 'February 26, 2026',
+    image: '/insights/Sound Rights and Smart deals.PNG',
     content: `**Sounds Right and Smart Deals: Understanding Entertainment Law in the Music Industry**
 
 **Introduction**
@@ -1054,13 +1054,25 @@ export const teamMembers = [
     title: 'Senior Partner',
     image: '/team/chetachi-mbadinuju.jpg',
     bio: [
-      'At C G Udora & Co, we are driven by a singular mission: to deliver strategic legal solutions with integrity, precision, and purpose. Since our founding, we have grown into a full-service law firm known for our deep knowledge of the Nigerian legal landscape, while maintaining the capacity to advise clients across borders.',
-    ],
-    education: [
-      'Nigerian Law School (BL)',
+      'Chetachi Chinwoke Mbadinuju is a commercial lawyer, strategic advisor, and dispute resolution professional with extensive experience advising private clients, corporate entities, and institutions on complex legal, regulatory, and business matters. His expertise spans corporate and commercial law, regulatory compliance, immigration advisory, property transactions, private client retainers, matrimonial matters, and emerging areas relating to artificial intelligence and legal innovation.',
+      'Born in Southampton, England, Cheta obtained his LL.B in Business and Finance Law from Brunel University London before proceeding to University of Buckingham where he earned a Master of Business Administration (MBA). He was subsequently called to the Nigerian Bar after completing his legal training at the Nigerian Law School.',
+      'At Chinedu G. Udora & Co., Cheta heads the Property Transactions Practice of the firm and also advises clients across diverse areas including commercial transactions, negotiation, regulatory compliance, private client advisory, and strategic business matters. He is particularly recognized for his discretion, analytical approach, negotiation skills, and ability to navigate sensitive legal and commercial issues requiring confidentiality, trust, and strategic advisory expertise.',
+      'A qualified Professional Negotiator and Mediator, Cheta combines cross-jurisdictional academic and professional exposure with practical legal experience to deliver innovative and results-oriented solutions for clients. His multidisciplinary outlook allows him to approach legal issues from both commercial and strategic perspectives.',
+      'Beyond legal practice, he has interests and management experience in hospitality, real estate, agriculture, and community development. He also serves as Trustee and Principal Curator of the Chinwoke Mbadinuju Foundation, a non-governmental organisation focused on human and community development initiatives.',
     ],
     memberships: [
-      'Nigerian Bar Association (NBA)',
+      'Member, Nigerian Bar Association (Unity Branch, Abuja)',
+      'Fellow, Nigerian Immigration Lawyers Association',
+      'Paul Harris Fellow (PHF), Rotary International',
+    ],
+    practiceAreas: [
+      'Corporate and Commercial Advisory',
+      'Immigration and Regulatory Compliance',
+      'Property and Real Estate Transactions',
+      'Private Client Advisory and Retainers',
+      'Negotiation and Alternative Dispute Resolution',
+      'AI Research and Legal Innovation',
+      'Matrimonial and Family Advisory Services',
     ],
   },
   {

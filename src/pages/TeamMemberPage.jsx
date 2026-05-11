@@ -56,6 +56,17 @@ export default function TeamMemberPage() {
                 </div>
               )}
 
+              {member.practiceAreas && (
+                <div className="bio-list-section">
+                  <h3>Representative Interests & Practice Areas</h3>
+                  <ul>
+                    {member.practiceAreas.map((item, i) => (
+                      <li key={i}>{item}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
               {member.education && (
                 <div className="bio-list-section">
                   <h3>Education</h3>
