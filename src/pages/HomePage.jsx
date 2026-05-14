@@ -39,18 +39,10 @@ export default function HomePage() {
         <div className="container">
           <div className="welcome-grid">
             <div ref={welcomeRef} className={`welcome-text fade-up ${welcomeVisible ? 'visible' : ''}`}>
-              <span className="label">WELCOME</span>
+              <span className="label">OUR VISION &amp; MISSION</span>
               <p>
-                With a commitment to excellence, our team works closely with
-                individuals, Government entities, corporations, and public institutions
-                to navigate complex legal challenges in an ever-changing world. Whether
-                in the courtroom or the boardroom, our clients trust us to protect
-                their interests with clarity and conviction.
+                To provide world-class legal services through strategic advocacy, commercially driven solutions, and exceptional client representation, while building a globally respected law firm distinguished for excellence, integrity, innovation, and cross-border legal expertise across Nigeria and international markets.
               </p>
-              <div className="welcome-signature">
-                <strong>Chinedu G. Udora</strong>
-                <em>Principal Partner</em>
-              </div>
             </div>
             <div
               ref={welcomeImgRef}

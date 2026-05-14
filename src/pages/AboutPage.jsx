@@ -33,15 +33,15 @@ export default function AboutPage() {
           <div className="overview-grid">
             <div ref={overviewRef} className={`overview-text fade-up ${overviewVisible ? 'visible' : ''}`}>
               <span className="label">OVERVIEW</span>
-              <h2>
-                Our senior advisors average 16 years of operating experience.
-                We&apos;ve been CEOs, COOs, heads of sales, GMs of business units.
-              </h2>
+              <h2>Our Culture And Approach</h2>
               <p>
-                We&apos;ve raised capital, made acquisitions, built teams, and dealt
-                with boards. When we give you advice, it&apos;s based on having done
-                it ourselves. Our success is tied to yours. If the strategy
-                doesn&apos;t work, we keep working until it does.
+                Our Firm is built on a culture of diligence, responsiveness, discretion, and excellence. We believe that effective legal representation requires not only strong technical expertise but also commercial understanding, strategic thinking, and a genuine commitment to our clients&apos; objectives.
+              </p>
+              <p>
+                We approach every matter with professionalism, attention to detail, and a solution-driven mindset, ensuring that our clients receive practical legal guidance capable of navigating both immediate challenges and long-term opportunities.
+              </p>
+              <p>
+                At Chinedu G. Udora &amp; Co., we remain committed to delivering legal services that inspire confidence, create value, and achieve results that matter.
               </p>
 
             </div>
