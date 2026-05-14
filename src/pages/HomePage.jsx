@@ -31,19 +31,15 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Insights - immediately after hero */}
+      <InsightsPreview count={3} />
+
       {/* Welcome */}
       <section className="welcome">
         <div className="container">
           <div className="welcome-grid">
             <div ref={welcomeRef} className={`welcome-text fade-up ${welcomeVisible ? 'visible' : ''}`}>
               <span className="label">WELCOME</span>
-              <h2>
-                At Chinedu G. Udora &amp; Co, we are driven by a singular mission: to
-                deliver strategic legal solutions with integrity, precision, and
-                purpose. Since our founding, we have grown into a full-service law firm
-                known for our deep knowledge of the Nigerian legal landscape, while
-                maintaining the capacity to advise clients across borders.
-              </h2>
               <p>
                 With a commitment to excellence, our team works closely with
                 individuals, Government entities, corporations, and public institutions
@@ -93,11 +89,6 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-
-
-
-      {/* Insights */}
-      <InsightsPreview count={3} />
 
       {/* CTA */}
       <CTASection />

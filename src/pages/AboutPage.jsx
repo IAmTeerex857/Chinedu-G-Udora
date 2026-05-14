@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { useFadeUp } from '../hooks/useFadeUp';
 import { teamMembers } from '../data/siteData';
 import Stats from '../components/Stats';
-import InsightsPreview from '../components/Insights';
+
 import CTASection from '../components/CTA';
 
 export default function AboutPage() {
@@ -22,11 +22,7 @@ export default function AboutPage() {
         <div className="container">
           <div ref={heroRef} className={`page-hero-content fade-up ${heroVisible ? 'visible' : ''}`}>
             <span className="label">OUR FIRM</span>
-            <h1>
-              We&apos;re former operators who&apos;ve built companies, led divisions,
-              closed transactions, and navigated the same inflection points you&apos;re
-              facing.
-            </h1>
+            <h1>Legal Excellence.<br />Built on Integrity.</h1>
           </div>
         </div>
       </section>
