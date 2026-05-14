@@ -30,17 +30,15 @@ export default function ServicesPage() {
         <div className="container">
           <div className="overview-grid">
             <div ref={overviewRef} className={`overview-text fade-up ${overviewVisible ? 'visible' : ''}`}>
-              <span className="label">DEEP LOOK</span>
-              <h2>
-                Most firms at an inflection point face some combination of three
-                challenges: they need to grow revenue, they need to improve
-                operations, or they&apos;re navigating a transaction.
-              </h2>
+              <span className="label">OUR CROSS-SECTOR EXPERIENCE</span>
+              <p className="overview-text-bold">
+                Across all our practice areas, Chinedu G. Udora &amp; Co. has experience advising and representing private individuals, corporate organizations, investors, entrepreneurs, financial institutions, public officers, government entities, regulatory stakeholders, local businesses, international clients, and institutions across multiple sectors.
+              </p>
               <p>
-                We work on growth, operations, and M&A—the core strategic and
-                operational challenges that define outcomes at inflection points. We
-                focus exclusively on these areas because they&apos;re where the stakes
-                are highest and where getting it wrong is most expensive.
+                Our strength lies in combining courtroom advocacy, commercial advisory, regulatory knowledge, transactional support, negotiation skill, and practical business understanding. This allows us to serve clients whose needs often cut across several areas of law at once.
+              </p>
+              <p>
+                Whether acting for a private client protecting personal assets, a company negotiating a commercial transaction, a government-related entity managing institutional obligations, an investor entering the Nigerian market, or an international client seeking local legal guidance, our Firm delivers legal services with professionalism, precision, discretion, and a global standard of excellence.
               </p>
               <Link to="/about" className="link-underline">Meet The Team</Link>
             </div>

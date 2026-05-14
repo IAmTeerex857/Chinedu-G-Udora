@@ -6,7 +6,11 @@ export const services = [
     title: 'Corporate Advisory',
     subtitle: 'Strategic counsel for businesses navigating complex corporate transactions',
     heroText: 'We provide strategic legal advisory for businesses navigating complex corporate transactions, regulatory compliance, and governance matters.',
-    whatWeDo: 'We advise businesses on corporate structuring, regulatory compliance, governance frameworks, and strategic transactions. Our team works closely with founders, executives, and boards to ensure every corporate decision is legally sound and commercially strategic.',
+    whatWeDo: `Our Corporate Advisory practice provides end-to-end legal support to businesses, investors, founders, boards, private clients, public institutions, and international entities seeking to establish, operate, expand, restructure, or protect their interests in Nigeria and across borders. We advise on company formation, corporate governance, board advisory, shareholders’ arrangements, regulatory compliance, business structuring, corporate secretarial matters, commercial contracts, operational risk, and strategic decision-making.
+
+We support clients at every stage of the business cycle, from incorporation and early-stage structuring to expansion, restructuring, investor readiness, governance improvement, and dispute prevention. Our advisory approach is practical, commercially aware, and designed to help clients make legally sound decisions that also advance their business objectives.
+
+We have experience working with private individuals, companies, government-related entities, and institutional clients across different sectors. This allows us to understand not only the legal framework, but also the commercial, regulatory, and reputational issues that often determine the success of a transaction or business decision.`,
     offerings: [
       {
         title: 'Corporate Governance',
@@ -28,7 +32,11 @@ export const services = [
     title: 'Mergers & Acquisitions',
     subtitle: 'Buy-side, sell-side, and integration',
     heroText: 'We help you navigate transactions—validating deals before you close, maximizing value when you sell, and executing integrations that capture the returns you underwrote.',
-    whatWeDo: "We help you get deals done and make them work. That means rigorous diligence on the front end so you actually know what you're buying, clear-eyed value creation planning that's grounded in reality, and hands-on integration support to capture the value you underwrote.",
+    whatWeDo: `Our Mergers and Acquisitions practice provides strategic legal support to companies, investors, founders, shareholders, private equity participants, and corporate groups involved in acquisitions, disposals, joint ventures, business combinations, corporate restructuring, and strategic partnerships.
+
+We advise on transaction structuring, due diligence, negotiation, regulatory approvals, risk assessment, share purchase agreements, asset purchase agreements, shareholders’ agreements, investment agreements, board and shareholder approvals, and post-completion obligations. We also support clients in identifying legal, financial, operational, employment, tax, and regulatory risks that may affect the value or success of a transaction.
+
+Our approach is designed to protect client interests from the preliminary negotiation stage through completion and post-transaction integration. Whether acting for buyers, sellers, investors, founders, or corporate entities, we provide clear, practical, and commercially focused advice.`,
     offerings: [
       {
         title: 'Commercial Due Diligence',
@@ -50,7 +58,11 @@ export const services = [
     title: 'Election Petition & Dispute',
     subtitle: 'Representation in election petition proceedings and electoral litigation',
     heroText: 'Representation of political parties, candidates, and stakeholders in election petition proceedings and electoral litigation, including pre-election and post-election disputes.',
-    whatWeDo: 'We represent political parties, candidates, and stakeholders in election petition proceedings and electoral litigation. Our team has extensive experience handling pre-election and post-election disputes, ensuring our clients\' electoral rights are vigorously protected.',
+    whatWeDo: `Our Election Petitions and Electoral Law practice covers the full spectrum of electoral disputes, including pre-election matters, election-day issues, post-election petitions, party nomination disputes, candidate qualification disputes, substitution issues, delegate congress disputes, results challenges, constitutional questions, and appeals arising from electoral proceedings.
+
+We advise and represent candidates, political parties, elected officials, public officers, stakeholders, and interested institutions on matters arising under the Constitution, the Electoral Act, INEC regulations, political party guidelines, and election tribunal procedure. Our work includes legal strategy, case assessment, petition drafting, replies, interlocutory applications, evidence preparation, witness coordination, tribunal advocacy, appellate briefs, and post-judgment advisory.
+
+Election litigation is highly technical and time-sensitive. Our Firm brings precision, urgency, procedural discipline, and strong advocacy to electoral matters, ensuring that clients are properly advised on limitation periods, jurisdictional issues, evidential burdens, documentary requirements, and the strategic realities of political litigation.`,
     offerings: [
       {
         title: 'Pre-Election Disputes',
@@ -72,7 +84,11 @@ export const services = [
     title: 'Sports & Entertainment Law',
     subtitle: 'Legal advisory for athletes, clubs, agencies, and organizations',
     heroText: 'Legal advisory for athletes, clubs, agencies, and organizations on contracts, rights management, and dispute resolution.',
-    whatWeDo: 'We provide comprehensive legal services to the sports and entertainment industry, covering contract negotiations, rights management, dispute resolution, and regulatory compliance for athletes, clubs, agencies, and entertainment organizations.',
+    whatWeDo: `Our Sports and Entertainment Law practice advises athletes, entertainers, artists, creators, influencers, managers, agencies, production companies, sports organizations, media companies, event organizers, and brands on the legal and commercial issues that shape the creative and sports industries.
+
+We provide support on talent agreements, endorsement deals, sponsorship arrangements, image rights, licensing, media rights, recording and production agreements, event contracts, management agreements, brand partnerships, intellectual property protection, royalties, revenue sharing, confidentiality, dispute resolution, and regulatory compliance.
+
+As sports, media, and entertainment become increasingly global, we help clients protect their creative and commercial value across platforms, markets, and jurisdictions. Our Firm understands the importance of reputation, ownership, monetization, and control in these industries, and we structure agreements to protect both immediate opportunities and long-term value.`,
     offerings: [
       {
         title: 'Contract Negotiations',
@@ -94,7 +110,11 @@ export const services = [
     title: 'Real Estate & Property Law',
     subtitle: 'Structuring, negotiating, and securing property transactions',
     heroText: 'Structuring, negotiating, litigating and securing property transactions, leases, and land disputes for individuals and corporates.',
-    whatWeDo: 'We handle all aspects of real estate and property law—from structuring and negotiating property transactions to litigating land disputes. Our team ensures every deal is legally sound and every property interest is fully protected.',
+    whatWeDo: `Our Real Estate and Property Law practice provides comprehensive legal services to individuals, families, investors, developers, companies, landlords, tenants, financial institutions, estate managers, and government-related entities involved in property transactions and disputes.
+
+We advise on land acquisition, title investigation, perfection of title, leases, tenancy arrangements, property development, joint ventures, construction-related arrangements, mortgages, property financing, sale and purchase transactions, family property issues, landlord and tenant disputes, recovery of premises, trespass, boundary disputes, and enforcement of property rights.
+
+Real estate transactions require careful due diligence and proper documentation. Our Firm helps clients identify defects in title, assess regulatory requirements, structure transactions securely, and protect their ownership, possession, investment, and commercial interests.`,
     offerings: [
       {
         title: 'Property Transactions',
@@ -116,7 +136,11 @@ export const services = [
     title: 'Dispute Resolution',
     subtitle: 'Strategic resolution of commercial, civil, and contractual disputes',
     heroText: 'Delivering strategic resolution of commercial, civil, and contractual disputes. We represent clients in litigation, arbitration, mediation, and alternative dispute resolution cases.',
-    whatWeDo: 'We deliver strategic resolution of commercial, civil, and contractual disputes. Our team represents clients across litigation, arbitration, mediation, and other alternative dispute resolution mechanisms, always focused on achieving the most favorable outcome.',
+    whatWeDo: `Our Dispute Resolution practice assists clients in preventing, managing, and resolving disputes through negotiation, mediation, arbitration, litigation strategy, and other alternative dispute resolution mechanisms. We represent private individuals, companies, investors, government entities, financial institutions, employers, developers, contractors, and institutions in a wide range of commercial and civil disputes.
+
+We handle contractual disputes, shareholder disagreements, debt recovery, property disputes, employment conflicts, regulatory disputes, construction-related claims, commercial disagreements, enforcement proceedings, and settlement negotiations. Our approach is not limited to courtroom representation; we assess the commercial realities of each dispute and advise clients on the most efficient route to resolution.
+
+Where settlement protects the client’s interest, we pursue it strategically. Where litigation or arbitration is necessary, we prepare thoroughly and advocate firmly. Our goal is always to achieve practical, enforceable, and commercially sensible outcomes.`,
     offerings: [
       {
         title: 'Commercial Litigation',
@@ -138,7 +162,11 @@ export const services = [
     title: 'Oil & Gas',
     subtitle: 'Legal advisory on upstream, midstream, and downstream operations',
     heroText: 'Providing legal advisory on upstream, midstream, and downstream operations, contracts, and regulatory compliance.',
-    whatWeDo: 'We provide comprehensive legal advisory on upstream, midstream, and downstream operations, contracts, and regulatory compliance. The firm counsels clients, including the Nigerian Content Development and Monitoring Board (NCDMB), on sector-specific transactions and regulatory matters.',
+    whatWeDo: `Our Oil and Gas practice advises companies, investors, contractors, service providers, government-related entities, operators, and stakeholders involved in Nigeria’s energy sector and related international transactions. We provide legal support on regulatory compliance, licensing, petroleum contracts, joint ventures, service agreements, project documentation, local content compliance, commercial negotiations, risk management, and dispute resolution.
+
+We assist clients operating across upstream, midstream, and downstream activities, including exploration-related arrangements, supply contracts, logistics, infrastructure, petroleum products, service provision, and investment structures. Our advice is guided by a practical understanding of the regulatory, commercial, environmental, and operational issues that affect the sector.
+
+Our Firm supports clients in navigating complex energy transactions, protecting contractual rights, managing regulatory exposure, and resolving disputes that arise from high-value oil and gas operations.`,
     offerings: [
       {
         title: 'Upstream Operations',
@@ -160,7 +188,11 @@ export const services = [
     title: 'Employment & Labour Law',
     subtitle: 'Advising on employment contracts, workplace policies, and labour disputes',
     heroText: 'Advising employers and employees on employment contracts, workplace policies, compliance, and labour disputes.',
-    whatWeDo: 'We advise employers and employees on employment contracts, workplace policies, compliance, and labour disputes. The firm provides practical solutions to manage workforce relations and mitigate legal risks.',
+    whatWeDo: `Our Employment and Labour Law practice advises employers, employees, executives, companies, institutions, government entities, and international organizations on workplace relations, labour compliance, employment documentation, human resource risk, and employment disputes.
+
+We assist with employment contracts, executive service agreements, workplace policies, staff handbooks, disciplinary procedures, termination processes, redundancy, workplace investigations, employee benefits, confidentiality obligations, non-compete and non-solicitation clauses, labour complaints, and employment litigation.
+
+We help employers maintain compliant and commercially workable employment structures while protecting employees and executives where their rights, entitlements, or contractual benefits are at stake. Our advice balances legal compliance, operational realities, workplace culture, and dispute prevention.`,
     offerings: [
       {
         title: 'Employment Contracts & Policies',
@@ -182,7 +214,11 @@ export const services = [
     title: 'Digital, Privacy & Cyber Law',
     subtitle: 'Data protection, digital rights, and technology transactions',
     heroText: 'Advising clients on data protection, digital rights, technology transactions, and media compliance.',
-    whatWeDo: 'We advise clients on data protection, digital rights, technology transactions, and media compliance. The firm provides strategic guidance on cybercrime matters, regulatory obligations, and emerging tech-related legal challenges.',
+    whatWeDo: `Our Digital, Privacy and Cyber Law practice supports businesses, technology companies, startups, digital platforms, creators, financial technology providers, institutions, and international clients navigating the legal risks of the digital economy.
+
+We advise on data protection compliance, privacy policies, cybersecurity obligations, platform terms and conditions, technology contracts, artificial intelligence governance, fintech regulation, digital content risk, online brand protection, software-related agreements, e-commerce operations, cross-border data issues, and regulatory compliance under Nigerian and international frameworks.
+
+As digital regulation continues to evolve, we help clients build legally compliant and commercially resilient digital systems. Our Firm supports businesses in managing privacy risk, protecting user data, structuring technology relationships, responding to cyber incidents, and aligning digital operations with applicable legal standards.`,
     offerings: [
       {
         title: 'Data Protection & Privacy',
@@ -204,7 +240,11 @@ export const services = [
     title: 'Tax Advisory',
     subtitle: 'Tax compliance, planning, and dispute resolution',
     heroText: 'Advising clients on tax compliance, planning, and disputes.',
-    whatWeDo: 'We advise clients on tax compliance, planning, and disputes. The firm provides strategic guidance to optimize tax obligations while ensuring adherence to regulatory requirements.',
+    whatWeDo: `Our Tax Advisory practice assists individuals, businesses, investors, companies, institutions, and international clients with tax planning, compliance, structuring, regulatory engagement, and tax dispute management. We advise on corporate taxation, personal income tax, withholding tax, VAT, capital gains tax, stamp duties, transaction taxes, tax-efficient business structures, and tax implications of commercial arrangements.
+
+We help clients understand and comply with tax obligations while structuring transactions and operations in a commercially efficient manner. Our Firm also supports clients in dealing with tax authorities, responding to assessments, managing audits, reviewing tax exposure, and resolving tax-related disputes.
+
+Our tax advisory services are designed to help clients reduce avoidable risk, maintain compliance, improve operational efficiency, and make informed business and investment decisions within Nigeria’s evolving tax environment and broader cross-border commercial landscape.`,
     offerings: [
       {
         title: 'Tax Planning & Optimization',
@@ -226,7 +266,11 @@ export const services = [
     title: 'Criminal Litigation',
     subtitle: 'Expert representation in criminal proceedings',
     heroText: 'Providing expert representation in criminal proceedings, including investigations, trials, and appeals.',
-    whatWeDo: 'We provide expert representation in criminal proceedings, including investigations, trials, and appeals. The firm offers strategic advocacy and defense to protect clients\' rights and achieve favorable outcomes.',
+    whatWeDo: `Our General Litigation practice represents clients in civil, criminal, commercial, constitutional, regulatory, and appellate matters before courts, tribunals, panels, and dispute resolution bodies. We act for individuals, companies, executives, public officials, government-related entities, institutions, and private clients in contentious proceedings requiring strong legal strategy and effective advocacy.
+
+Our civil litigation work includes contract disputes, debt recovery, land disputes, tenancy matters, family-related civil claims, enforcement proceedings, fundamental rights actions, commercial claims, employment disputes, and claims for damages or injunctive relief. Our criminal litigation work includes defence representation, advisory on criminal exposure, bail applications, white-collar matters, fraud-related allegations, regulatory offences, and representation in criminal proceedings.
+
+We approach litigation with discipline, preparation, and strategy. From pleadings and applications to trial advocacy, written addresses, appeals, enforcement, and settlement negotiations, we work to protect our clients’ legal rights, reputations, liberty, assets, and commercial interests.`,
     offerings: [
       {
         title: 'Criminal Defense',
@@ -248,7 +292,11 @@ export const services = [
     title: 'Intellectual Property',
     subtitle: 'Safeguarding your innovations and creative assets',
     heroText: 'Safeguarding your innovations through trademark registration, copyright protection, licensing, and IP litigation.',
-    whatWeDo: 'We safeguard your innovations and creative assets through comprehensive intellectual property services, including trademark registration, copyright protection, patent advisory, licensing, and IP litigation.',
+    whatWeDo: `Our Intellectual Property Law practice helps clients protect, manage, commercialize, and enforce their intellectual property rights in Nigeria and across international markets. We advise creators, entrepreneurs, companies, artists, media brands, technology businesses, manufacturers, entertainers, designers, and institutions on trademarks, copyrights, licensing, brand protection, trade secrets, confidential information, and IP enforcement.
+
+We assist with trademark searches and registration, copyright advisory, licensing agreements, assignment agreements, brand collaboration agreements, IP ownership clauses, infringement claims, opposition matters, cease-and-desist letters, and commercialization strategies.
+
+Intellectual property is often one of a client’s most valuable assets. Our Firm helps clients move beyond mere protection to strategic ownership, monetization, enforcement, and long-term brand value preservation.`,
     offerings: [
       {
         title: 'Trademark & Copyright Registration',

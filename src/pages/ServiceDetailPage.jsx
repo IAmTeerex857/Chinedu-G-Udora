@@ -43,7 +43,7 @@ function ServiceDetail({ service }) {
         <div className="container">
           <div ref={whatWeDoRef} className={`service-detail-intro fade-up ${whatWeDoVisible ? 'visible' : ''}`}>
             <span className="label">WHAT WE DO</span>
-            <p className="detail-overview">{service.whatWeDo}</p>
+            <div className="detail-overview" style={{ whiteSpace: 'pre-wrap' }}>{service.whatWeDo}</div>
           </div>
 
           <div className="offerings-list">
