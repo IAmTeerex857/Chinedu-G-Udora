@@ -62,9 +62,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Stats */}
-      <Stats />
-
       {/* Services (first 3 + See All) */}
       <section className="services-section">
         <div className="container">
@@ -89,6 +86,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Stats */}
+      <Stats />
 
       {/* CTA */}
       <CTASection />
