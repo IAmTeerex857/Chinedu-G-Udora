@@ -82,7 +82,7 @@ h2 { font-size: clamp(1.8rem, 3.5vw, 3rem); margin-bottom: 1.5rem; }
 /* ===== HEADER ===== */
 .header {
   position: fixed; top: 0; left: 0; width: 100%; padding: 1.5rem 5%;
-  display: flex; justify-content: space-between; align-items: center;
+  display: flex; justify-content: space-between; align-items: center; gap: 1.5rem;
   z-index: 100; background: transparent; transition: background 0.4s, padding 0.4s;
 }
 .header.scrolled {
@@ -402,6 +402,10 @@ h2 { font-size: clamp(1.8rem, 3.5vw, 3rem); margin-bottom: 1.5rem; }
 
 /* ===== RESPONSIVE ===== */
 @media (max-width: 1024px) {
+  .nav { gap: 1rem; }
+  .nav a { font-size: 0.85rem; }
+  .header-actions { gap: 0.5rem; }
+  .header-cta { padding: 0.6rem 1rem; }
   .welcome-grid, .overview-grid, .footer-top, .partnerships-grid { grid-template-columns: 1fr; gap: 3rem; }
   .stats-grid { grid-template-columns: repeat(3, 1fr); }
   .success-grid, .insights-grid, .blog-grid { grid-template-columns: repeat(2, 1fr); }
