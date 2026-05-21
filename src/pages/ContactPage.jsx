@@ -3,7 +3,7 @@ import { useFadeUp } from '../hooks/useFadeUp';
 import { contactInfo } from '../data/siteData';
 import CTASection from '../components/CTA';
 
-export default function ContactPage() {
+export default function ContactPage({ onOpenBooking }) {
   const { callbackRef: heroRef, isVisible: heroVisible } = useFadeUp();
   const { callbackRef: formRef, isVisible: formVisible } = useFadeUp();
   const { callbackRef: infoRef, isVisible: infoVisible } = useFadeUp();
@@ -117,9 +117,9 @@ export default function ContactPage() {
               <div className="sidebar-card sidebar-card--dark">
                 <h3>Book a Consultation</h3>
                 <p>Schedule a one-on-one consultation with our legal experts to discuss your specific needs.</p>
-                <a href={`tel:${contactInfo.phone}`} className="btn btn-primary" style={{marginTop: '1rem'}}>
-                  Call Now
-                </a>
+                <button className="btn btn-primary" style={{marginTop: '1rem'}} onClick={onOpenBooking}>
+                  Book a Consultation
+                </button>
               </div>
             </div>
           </div>

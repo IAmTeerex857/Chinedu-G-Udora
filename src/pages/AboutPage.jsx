@@ -17,8 +17,8 @@ export default function AboutPage() {
     <>
       {/* Hero */}
       <section className="page-hero page-hero--dark page-hero--about">
-        <img src="/about-group.jpg" alt="" className="hero-bg" />
-        <div className="hero-overlay" />
+        <img src="/about-hero.jpeg" alt="" className="hero-bg" />
+        <div className="hero-overlay" style={{ background: 'linear-gradient(135deg, rgba(10,25,60,0.85) 0%, rgba(10,25,60,0.6) 50%, rgba(10,25,60,0.4) 100%)' }} />
         <div className="container">
           <div ref={heroRef} className={`page-hero-content fade-up ${heroVisible ? 'visible' : ''}`}>
             <span className="label">OUR FIRM</span>

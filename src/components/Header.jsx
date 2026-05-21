@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 
-export default function Header() {
+export default function Header({ onOpenBooking }) {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const location = useLocation();
@@ -41,7 +41,7 @@ export default function Header() {
       </nav>
       <div className="header-actions">
         <Link to="/contact" className="btn btn-primary header-cta">Contact Us</Link>
-        <Link to="/contact" className="btn btn-consultation header-cta">Book a Consultation</Link>
+        <button className="btn btn-consultation header-cta" onClick={onOpenBooking}>Book a Consultation</button>
       </div>
       <button
         className="mobile-menu-btn"

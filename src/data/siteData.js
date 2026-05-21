@@ -1097,33 +1097,6 @@ export const teamMembers = [
     ],
   },
   {
-    name: 'Chetachi Mbadinuju',
-    slug: 'chetachi-mbadinuju',
-    title: 'Senior Partner',
-    image: '/team/chetachi-mbadinuju.jpg',
-    bio: [
-      'Chetachi Chinwoke Mbadinuju is a commercial lawyer, strategic advisor, and dispute resolution professional with extensive experience advising private clients, corporate entities, and institutions on complex legal, regulatory, and business matters. His expertise spans corporate and commercial law, regulatory compliance, immigration advisory, property transactions, private client retainers, matrimonial matters, and emerging areas relating to artificial intelligence and legal innovation.',
-      'Born in Southampton, England, Cheta obtained his LL.B in Business and Finance Law from Brunel University London before proceeding to University of Buckingham where he earned a Master of Business Administration (MBA). He was subsequently called to the Nigerian Bar after completing his legal training at the Nigerian Law School.',
-      'At Chinedu G. Udora & Co., Cheta heads the Property Transactions Practice of the firm and also advises clients across diverse areas including commercial transactions, negotiation, regulatory compliance, private client advisory, and strategic business matters. He is particularly recognized for his discretion, analytical approach, negotiation skills, and ability to navigate sensitive legal and commercial issues requiring confidentiality, trust, and strategic advisory expertise.',
-      'A qualified Professional Negotiator and Mediator, Cheta combines cross-jurisdictional academic and professional exposure with practical legal experience to deliver innovative and results-oriented solutions for clients. His multidisciplinary outlook allows him to approach legal issues from both commercial and strategic perspectives.',
-      'Beyond legal practice, he has interests and management experience in hospitality, real estate, agriculture, and community development. He also serves as Trustee and Principal Curator of the Chinwoke Mbadinuju Foundation, a non-governmental organisation focused on human and community development initiatives.',
-    ],
-    memberships: [
-      'Member, Nigerian Bar Association (Unity Branch, Abuja)',
-      'Fellow, Nigerian Immigration Lawyers Association',
-      'Paul Harris Fellow (PHF), Rotary International',
-    ],
-    practiceAreas: [
-      'Corporate and Commercial Advisory',
-      'Immigration and Regulatory Compliance',
-      'Property and Real Estate Transactions',
-      'Private Client Advisory and Retainers',
-      'Negotiation and Alternative Dispute Resolution',
-      'AI Research and Legal Innovation',
-      'Matrimonial and Family Advisory Services',
-    ],
-  },
-  {
     name: 'Qudus A. Alalafia',
     slug: 'qudus-alalafia',
     title: 'Junior Partner',
