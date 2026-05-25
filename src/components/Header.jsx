@@ -38,12 +38,6 @@ export default function Header({ onOpenBooking }) {
         <Link to="/services" className={location.pathname.startsWith('/services') ? 'active' : ''}>Services</Link>
         <Link to="/about" className={location.pathname === '/about' ? 'active' : ''}>About</Link>
         <Link to="/blog" className={location.pathname.startsWith('/blog') ? 'active' : ''}>Insights</Link>
-        <button
-          className="nav-book-cta"
-          onClick={() => { setMobileOpen(false); onOpenBooking(); }}
-        >
-          Book a Consultation
-        </button>
       </nav>
       <div className="header-actions">
         <Link to="/contact" className="btn btn-primary header-cta">Contact Us</Link>
